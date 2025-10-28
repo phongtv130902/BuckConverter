@@ -1,0 +1,7 @@
+Added Component: Designator=U7(LM358)
+Added Component: Designator=U8(LM358)
+Added Pin To Net: NetName=5V Pin=U6-4
+Added Pin To Net: NetName=5V Pin=U6-8
+Added Pin To Net: NetName=NetR38_1 Pin=U9-5
+Added Pin To Net: NetName=VREF_CUR Pin=U9-6
+Added Pin To Net: NetName=NetR36_1 Pin=U9-7
