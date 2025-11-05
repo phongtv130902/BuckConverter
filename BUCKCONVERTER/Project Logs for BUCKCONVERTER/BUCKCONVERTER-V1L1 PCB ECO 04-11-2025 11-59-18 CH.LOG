@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Pin From Net: NetName=GND Pin=R32-1
+Removed Pin From Net: NetName=NetC32_1 Pin=R32-2
+Removed Pin From Net: NetName=A3V3 Pin=R36-2
+Removed Pin From Net: NetName=A3V3 Pin=R43-2
+Removed Pin From Net: NetName=NetQ4_C Pin=U5-1
+Removed Pin From Net: NetName=+12 Pin=U5-3
+Removed Pin From Net: NetName=NetD3_C Pin=U5-5
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Member From Class: ClassName=U_BUCKCONVERTER - POWER Member=C21
+Change Component Footprint: Designator=U5 Old Footprint=SOIC 8 New Footprint=SOIC127P600X175-8N
+Change Component Comment : Designator=U5 Old Comment=L6388ED New Comment=TC4420EOA
+Change component parameters: Designator = "U5" ("U5"); Footprint = "SOIC 8"; UniqueID = "\YBJAXFTM\OVXMNVVG" ("\YBJAXFTM\OVXMNVVG")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TC4420EOA/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TC4420EOA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOIC-8 Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TC4420EOA/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R45(RES-CHP0402-0.35H)
+Add component (AddParameter): Name = "CERTIFICATION"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CLASS"; Value = "B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-AC0402FR-0775KL_C144737.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LINE"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUNT"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NOTE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMG CODE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RES-CHP0402-0.35H)
+Add component (AddParameter): Name = "CERTIFICATION"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CLASS"; Value = "B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-AC0402FR-0775KL_C144737.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LINE"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUNT"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NOTE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMG CODE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR22_1 Pin=R30-1
+Added Pin To Net: NetName=NetR22_1 Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R43-2
+Added Pin To Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=NetC32_1 Pin=R45-2
+Added Pin To Net: NetName=NetR22_1 Pin=R46-1
+Added Pin To Net: NetName=GND Pin=R46-2
+Added Pin To Net: NetName=+12 Pin=U5-1
+Added Pin To Net: NetName=NetQ4_C Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=NetD3_C Pin=U5-6
+Added Pin To Net: NetName=NetD3_C Pin=U5-7
+Added Pin To Net: NetName=+12 Pin=U5-8
+Added Pin To Net: NetName=5V Pin=U6-4
+Added Pin To Net: NetName=5V Pin=U6-8
+Added Pin To Net: NetName=NetR38_1 Pin=U9-5
+Added Pin To Net: NetName=VREF_CUR Pin=U9-6
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR32_2 Pin=U6-3
+Added Net: Name=NetR32_2
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=R37-2
+Added Pin To Net: NetName=NetR36_2 Pin=R39-1
+Added Pin To Net: NetName=NetR36_2 Pin=U9-7
+Added Net: Name=NetR36_2
+Added Member To Class: ClassName=U_BUCKCONVERTER - POWER Member=Component R45 1k
+Added Member To Class: ClassName=U_BUCKCONVERTER - POWER Member=Component R46 1k
