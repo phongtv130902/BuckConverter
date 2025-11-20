@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetR22_1 Pin=R46-1
+Removed Pin From Net: NetName=GND Pin=R46-2
+Removed Member From Class: ClassName=U_BUCKCONVERTER - POWER Member=R46
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=VOL Pin=U9-5
+Added Pin To Net: NetName=VREF_VOL Pin=U9-6
+Added Pin To Net: NetName=NetR43_1 Pin=U9-7

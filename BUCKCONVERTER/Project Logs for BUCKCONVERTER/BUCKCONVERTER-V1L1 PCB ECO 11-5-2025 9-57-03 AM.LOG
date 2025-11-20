@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetC26_1 Pin=C26-1
+Removed Pin From Net: NetName=CUR Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=NetC28_1 Pin=C29-2
+Removed Pin From Net: NetName=NetC26_1 Pin=R26-2
+Removed Pin From Net: NetName=NetC28_1 Pin=R29-1
+Removed Member From Class: ClassName=U_BUCKCONVERTER - POWER Member=C29
+Added Component: Designator=C21(CAP-CER0603-0.8H)
+Add component (AddParameter): Name = "CERTIFICATION"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CLASS"; Value = "B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/1810261515_Samsung-Electro-Mechanics-CL10B221KB8NNNC_C1603.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LINE"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUNT"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NOTE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMG CODE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMG PN"; Value = "CAPCER0003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC28_1 Pin=C21-1
+Added Pin To Net: NetName=CUR Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=C26-2
+Added Pin To Net: NetName=NetC28_1 Pin=R26-2
+Added Pin To Net: NetName=NetC26_1 Pin=R29-1
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=VOL Pin=U9-5
+Added Pin To Net: NetName=VREF_VOL Pin=U9-6
+Added Pin To Net: NetName=NetR43_1 Pin=U9-7
+Change Net Name : Old Net Name=NetC26_1 New Net Name=NetC26_2
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetC21_1
+Added Member To Class: ClassName=U_BUCKCONVERTER - POWER Member=Component C21 10pF

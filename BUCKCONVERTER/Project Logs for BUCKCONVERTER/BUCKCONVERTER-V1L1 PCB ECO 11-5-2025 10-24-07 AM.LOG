@@ -1,0 +1,4 @@
+Change Component Library : Designator=U9 Old Library=Schlib2.SchLib New Library=BUCKCONVERTER.SCHLIB
+Added Pin To Net: NetName=NetR43_1 Pin=U9-1
+Added Pin To Net: NetName=VREF_VOL Pin=U9-2
+Added Pin To Net: NetName=VOL Pin=U9-3

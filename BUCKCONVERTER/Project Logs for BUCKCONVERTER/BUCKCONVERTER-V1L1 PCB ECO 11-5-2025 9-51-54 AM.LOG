@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=NetR22_1 Pin=R32-1
+Removed Pin From Net: NetName=GND Pin=R45-1
+Removed Pin From Net: NetName=NetC32_1 Pin=R45-2
+Change Component Footprint: Designator=R31 Old Footprint=RES-CHP0402-0.35H New Footprint=RES-CHP0603-0.45H-272
+Change Component Footprint: Designator=R32 Old Footprint=RES-CHP0402-0.35H New Footprint=RES-CHP0603-0.45H-272
+Change Component Footprint: Designator=R45 Old Footprint=RES-CHP0402-0.35H New Footprint=RES-CHP0603-0.45H-272
+Change component parameters: Designator = "R31" ("R31"); Footprint = "RES-CHP0402-0.35H"; UniqueID = "\YBJAXFTM\MXPTXDTQ" ("\YBJAXFTM\MXPTXDTQ")
+Change component parameters (AddParameter): Name = "CERTIFICATION"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CLASS"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC0603FR-072K7L_C114612.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LINE"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUNT"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NOTE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TMG CODE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TMG PN"; Value = "RESCHP0195"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "EP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "RES-CHP0402-0.35H"; UniqueID = "\YBJAXFTM\IJTLBMAS" ("\YBJAXFTM\IJTLBMAS")
+Change component parameters (AddParameter): Name = "CERTIFICATION"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CLASS"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC0603FR-072K7L_C114612.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LINE"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUNT"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NOTE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TMG CODE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TMG PN"; Value = "RESCHP0195"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "EP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R45" ("R45"); Footprint = "RES-CHP0402-0.35H"; UniqueID = "\YBJAXFTM\SIJWRSDJ" ("\YBJAXFTM\SIJWRSDJ")
+Change component parameters (AddParameter): Name = "CERTIFICATION"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CLASS"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-RC0603FR-072K7L_C114612.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LINE"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MOUNT"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NOTE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TMG CODE"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TMG PN"; Value = "RESCHP0195"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "EP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=NetC32_1 Pin=R32-2
+Added Pin To Net: NetName=NetR22_1 Pin=R45-1
+Added Pin To Net: NetName=5V Pin=U6-4
+Added Pin To Net: NetName=5V Pin=U6-8
+Added Pin To Net: NetName=NetR38_1 Pin=U9-5
+Added Pin To Net: NetName=VREF_CUR Pin=U9-6
+Added Pin To Net: NetName=NetR36_2 Pin=U9-7
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=NetR45_2 Pin=U6-3
+Added Net: Name=NetR45_2
